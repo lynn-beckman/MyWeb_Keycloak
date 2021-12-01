@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWebApp", "MyWebApp\MyWebApp.csproj", "{4F63FAB9-4F71-478B-8703-8DDE6E1C0F8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebAPI", "MyWebAPI\MyWebAPI.csproj", "{617F87C8-C77A-41EE-98E6-FD8FBEF15E4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWebAPI", "MyWebAPI\MyWebAPI.csproj", "{617F87C8-C77A-41EE-98E6-FD8FBEF15E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyYarpProxy", "MyYarpProxy\MyYarpProxy.csproj", "{C86490B8-4F5F-4A06-A661-501BD39CEA0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{617F87C8-C77A-41EE-98E6-FD8FBEF15E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617F87C8-C77A-41EE-98E6-FD8FBEF15E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617F87C8-C77A-41EE-98E6-FD8FBEF15E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86490B8-4F5F-4A06-A661-501BD39CEA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86490B8-4F5F-4A06-A661-501BD39CEA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86490B8-4F5F-4A06-A661-501BD39CEA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86490B8-4F5F-4A06-A661-501BD39CEA0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
